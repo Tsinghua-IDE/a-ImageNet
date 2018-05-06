@@ -1,0 +1,10 @@
+n01322604 1 puppy
+n01639765 2 frog, toad, toad frog, anuran, batrachian, salientian
+n01693334 3 green lizard, Lacerta viridis
+n01773549 4 barn spider, Araneus cavaticus
+n01773797 5 garden spider, Aranea diademata
+n01796340 6 ptarmigan
+n01872401 7 echidna, spiny anteater, anteater
+n01873310 8 platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
+n01876326 9 bandicoot
+n01877134 10 kangaroo
